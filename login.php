@@ -13,6 +13,8 @@ phpinfo();
 
 echo date('Y-m-d', time());
 
+echo "Test Git";
+
 ?>    
 </body>
 </html>
