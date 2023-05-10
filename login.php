@@ -9,7 +9,14 @@
 <body>
 <?php
 
+phpinfo();
+
+echo date('Y-m-d', time());
+
+echo "Test Git";
+
 echo __FILE__;
+
 
 ?>    
 </body>
